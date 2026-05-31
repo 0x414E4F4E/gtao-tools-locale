@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "title": "载具改装",
+    "description": "载具改装速查"
+  },
+  "labels": {
+    "title": {
+      "modification": "改装速查"
+    },
+    "input": {
+      "keyword": {
+        "title": "关键词: ",
+        "placeholder": "以空格分开",
+        "aria": "以空格分开"
+      },
+      "model": {
+        "title": "型号: ",
+        "placeholder": "任何"
+      },
+      "type": {
+        "title": "类型: "
+      },
+      "select": {
+        "any": "任何"
+      },
+      "submit": {
+        "title": "搜索"
+      }
+    },
+    "table": {
+      "header": {
+        "model": "型号",
+        "vehicleName": "载具",
+        "type": "类型",
+        "name": "名称",
+        "weight": "重量"
+      }
+    },
+    "content": {
+      "count": "项",
+      "showing": "正在展示第",
+      "showingOf": "项，共",
+      "showingAll": "正在展示全部"
+    }
+  }
+}

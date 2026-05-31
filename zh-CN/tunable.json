@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "title": "每周更新",
+    "description": "在线游戏每周活动更新内容"
+  },
+  "labels": {
+    "title": {
+      "weekly": "每周活动",
+      "plus": "GTA+ 内容",
+      "vehicles": "可获取载具",
+      "salvageYard": "回收站",
+      "updateTime": "更新时间：",
+      "plusEndTime": "结束于: ",
+      "plusEndTimeUnknown": "未知"
+    },
+    "select": {
+      "latest": "最新",
+      "week": "周: ",
+      "plus": "GTA+: "
+    },
+    "table": {
+      "legend": {
+        "title": {
+          "special": "特殊",
+          "unavailable": "不可用",
+          "plus": "会员"
+        },
+        "description": {
+          "special": "无法从改装店获取的特殊颜色 / 购买后可解锁的特殊涂装",
+          "unavailable": "PC端无法保存的特殊颜色（重新进入游戏后变成黑色）",
+          "plus": "仅GTA+会员在特定条件下可获取的颜色"
+        }
+      },
+      "header": {
+        "model": {
+          "title": "型号",
+          "name": "名称",
+          "displayName": "显示名称"
+        },
+        "claimable": {
+          "title": "可领取"
+        },
+        "plate": {
+          "title": "车牌"
+        },
+        "license": {
+          "title": "车牌号"
+        },
+        "primary": {
+          "title": "主色调",
+          "id": "ID",
+          "type": "类型",
+          "colour": "颜色"
+        },
+        "secondary": {
+          "title": "副色调",
+          "id": "ID",
+          "type": "类型",
+          "colour": "颜色"
+        },
+        "pearlescent": {
+          "title": "珠光",
+          "id": "ID",
+          "colour": "颜色"
+        },
+        "wheel": {
+          "title": "轮毂色",
+          "id": "ID",
+          "colour": "颜色"
+        },
+        "trim": {
+          "title": "内饰色",
+          "id": "ID",
+          "colour": "颜色"
+        },
+        "accent": {
+          "title": "仪表盘色",
+          "id": "ID",
+          "colour": "颜色"
+        },
+        "livery": {
+          "title": "涂装",
+          "id": "ID",
+          "displayName": "名称"
+        },
+        "location": {
+          "title": "",
+          "casinoPrize": "幸运轮盘奖励",
+          "carMeetPrize": "车友会挑战奖励",
+          "promoTestDrive1": "车友会试驾 1",
+          "promoTestDrive2": "车友会试驾 2",
+          "promoTestDrive3": "车友会试驾 3",
+          "luxuryShowcase1": "豪华汽车展厅 1",
+          "luxuryShowcase2": "豪华汽车展厅 2",
+          "simeonTestDrive1": "西米恩车店 1",
+          "simeonTestDrive2": "西米恩车店 2",
+          "simeonTestDrive3": "西米恩车店 3",
+          "simeonTestDrive4": "西米恩车店 4",
+          "simeonTestDrive5": "西米恩车店 5",
+          "hswTestRide": "阿浩高级测试载具",
+          "prize": "免费奖励",
+          "vehicle1": "载具 1",
+          "vehicle2": "载具 2",
+          "vehicle3": "载具 3",
+          "vehicle4": "载具 4",
+          "vehicle5": "载具 5",
+          "vehicle6": "载具 6",
+          "vehicle7": "载具 7",
+          "vehicle8": "载具 8",
+          "vehicle9": "载具 9"
+        }
+      },
+      "content": {
+        "claimable": {
+          "yes": "是",
+          "no": "否"
+        },
+        "plate": {
+          "common": "普通"
+        },
+        "colorType": {
+          "chrome": "铬合金",
+          "classic": "经典",
+          "metallic": "金属质感",
+          "matte": "哑光",
+          "metals": "金属",
+          "chameleon": "变色龙",
+          "other": "其他"
+        }
+      }
+    }
+  }
+}

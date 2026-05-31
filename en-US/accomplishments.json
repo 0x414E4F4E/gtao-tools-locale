@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "locale": "en_US",
+    "title": "Awards & Achievements",
+    "description": "Track player's awards and achievements progress"
+  },
+  "labels": {
+    "title": {
+      "updateTime": "Updated: ",
+      "overview": {
+        "level": "Level",
+        "levelLSCM": "LSCM Level",
+        "levelArena": "Arena Level",
+        "cash": "Cash",
+        "bank": "Bank",
+        "earned": "Earned",
+        "spent": "Spent"
+      }
+    },
+    "select": {
+      "platform": {
+        "pcalt": "PC Enhanced",
+        "pc": "PC Legacy",
+        "ps5": "PS5",
+        "ps4": "PS4",
+        "xboxsx": "Xbox Series S/X",
+        "xboxone": "Xbox One"
+      }
+    },
+    "input": {
+      "nickname": {
+        "placeholder": "nickname",
+        "aria": "nickname"
+      },
+      "update": {
+        "title": "Update"
+      }
+    },
+    "segment": {
+      "tab": {
+        "awards": "Awards",
+        "achievements": "Achievements"
+      },
+      "filter": {
+        "all": "All",
+        "completed": "Completed",
+        "uncompleted": "Uncompleted"
+      },
+      "sort": {
+        "label": "Sort by: ",
+        "game": "Game",
+        "website": "Website"
+      }
+    },
+    "content": {
+      "private": {
+        "title": "Player profile is private"
+      },
+      "ritual": {
+        "title": "Daily & Weekly"
+      },
+      "medal": {
+        "eliteOG": {
+          "title": "OG Thief",
+          "description": "You prefer to do it the good old way.",
+          "howTo": "Complete all elite challenges for Original Heists.",
+          "rarity": "gold"
+        },
+        "cmmOG": {
+          "title": "Goodfellas",
+          "description": "You made a fortune with a solid team of 4.",
+          "howTo": "Complete Criminal Mastermind for Original Heists.",
+          "rarity": "gold"
+        },
+        "eliteDoomsday": {
+          "title": "Saviour",
+          "description": "You saved the world with elegance.",
+          "howTo": "Complete all elite challenges for Doomsday Heists.",
+          "rarity": "gold"
+        },
+        "cmmDoomsday": {
+          "title": "Mission Impossible",
+          "description": "Apocolypse averted and no one died… maybe except for Avon.",
+          "howTo": "Complete Criminal Mastermind for Doomsday Heists.",
+          "rarity": "gold"
+        },
+        "eliteDC": {
+          "title": "Duggan's Nightmare",
+          "description": "Keep the lights on in my vault.",
+          "howTo": "Complete all elite challenges for the Diamond Casino Heist.",
+          "rarity": "gold"
+        },
+        "eliteCP": {
+          "title": "Overdue Sabbatical",
+          "description": "You earned a paid vacation.",
+          "howTo": "Complete elite challenge for the Cayo Perico Heist.",
+          "rarity": "gold"
+        },
+        "level750": {
+          "title": "The World Is Yours",
+          "description": "Now you own the city… Do you?",
+          "howTo": "Reach level 750 and unlock a golden globe icon.",
+          "rarity": "gold"
+        },
+        "elite": {
+          "title": "Grand Theft Elite",
+          "description": "You joined high society of thieves.",
+          "howTo": "Complete all elite challenges for Original Heists, Doomsday Heists, Diamond Casino Heist, Cayo Perico Heist.",
+          "rarity": "platinum"
+        },
+        "cmm": {
+          "title": "Mastermind",
+          "description": "You are the Mastermind behind everything.",
+          "howTo": "Complete all Criminal Mastermind challenges for Original Heists and Doomsday Heists.",
+          "rarity": "platinum"
+        },
+        "collector": {
+          "title": "Collector",
+          "description": "You left no stone unturned.",
+          "howTo": "Collect 100 Action Figures and 54 Playing Cards.",
+          "rarity": "platinum"
+        },
+        "arena": {
+          "title": "Lord of Arena",
+          "description": "How much are you paying for electricity?",
+          "howTo": "Reach level 1000 on Arena Sponsorship Tier",
+          "rarity": "platinum"
+        },
+        "lscm": {
+          "title": "Tuned For Speed",
+          "description": "You are officially faster than light.",
+          "howTo": "Reach level 1000 on LSCM Reputation and unlock Tuned For Speed Racing Suit.",
+          "rarity": "platinum"
+        },
+        "rich": {
+          "title": "No One Richer",
+          "description": "Who could possibly be richer than you?",
+          "howTo": "Fill your mansion vault with 1 billion dollars.",
+          "rarity": "platinum"
+        },
+        "thumbsup": {
+          "title": "Social Butterfly",
+          "description": "You must be the prom queen.",
+          "howTo": "Earn 1000 thumbs up for one of your creations.",
+          "rarity": "chroma"
+        },
+        "exporter": {
+          "title": "Expert Smuggler",
+          "description": "You smuggle more hypercars than Grotti makes.",
+          "howTo": "Deliver 1000 Exotic Exports vehicles and receive the hidden text message.",
+          "rarity": "chroma"
+        },
+        "arcade": {
+          "title": "Pro Ape",
+          "description": "You have reached the peak of evolution",
+          "howTo": "Complete all arcade game challenges.",
+          "rarity": "chroma"
+        },
+        "samaritan": {
+          "title": "Samaritan",
+          "description": "What took a nice person like you to Los Santos?",
+          "howTo": "Return stolen cash to a shop 50 times.",
+          "rarity": "chroma"
+        },
+        "virgin": {
+          "title": "Virgin",
+          "description": "You know there is a place called Vanilla Unicorn, right?",
+          "howTo": "Reach level 500 without enjoying any private dances.",
+          "rarity": "chroma"
+        },
+        "heist1000": {
+          "title": "Habitual Robber",
+          "description": "You didn't stop at making a living. You made it a life.",
+          "howTo": "Complete 1000 heist setups or finales.",
+          "rarity": "chroma"
+        },
+        "trinity": {
+          "title": "Trinity",
+          "description": "Nothing can stop you on the way of ascension.",
+          "howTo": "Reach level 1000 on character, LSCM and Arena.",
+          "rarity": "chroma"
+        },
+        "achievements": {
+          "title": "Over Achiever",
+          "description": "You always aim for the best.",
+          "howTo": "Earn every achievement.",
+          "rarity": "red"
+        },
+        "awards": {
+          "title": "Decorated",
+          "description": "You are buried in awards.",
+          "howTo": "Earn every award.",
+          "rarity": "red"
+        },
+        "everything": {
+          "title": "No GTA No Life",
+          "description": "Get a life, bro.",
+          "howTo": "Earn every award and achievement.",
+          "rarity": "red"
+        },
+        "author": {
+          "title": "Bun",
+          "description": "This is a bun. And it tastes delicious.",
+          "howTo": "Author of the website.",
+          "rarity": "red"
+        }
+      }
+    }
+  }
+}

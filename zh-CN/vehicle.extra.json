@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "title": "载具 Interior Extras",
+    "description": "载具 interior extra 速查"
+  },
+  "labels": {
+    "title": {
+      "extra": "Interior Extra 速查"
+    },
+    "input": {
+      "includes": {
+        "title": "包含：",
+        "placeholder": "以半角逗号分隔",
+        "aria": "以半角逗号分隔"
+      },
+      "excludes": {
+        "title": "不包含：",
+        "placeholder": "以半角逗号分隔",
+        "aria": "以半角逗号分隔"
+      },
+      "submit": {
+        "title": "搜索"
+      }
+    },
+    "select": {
+    },
+    "table": {
+      "legend": {
+        "title": {
+          "requiredExtra": "Required"
+        },
+        "description": {
+          "requiredExtra": "Required extras"
+        }
+      },
+      "header": {
+        "model": "型号",
+        "manufacturer": "厂商",
+        "displayName": "名称",
+        "extra": "Interior Extras",
+        "flag": "Flags"
+      }
+    }
+  }
+}

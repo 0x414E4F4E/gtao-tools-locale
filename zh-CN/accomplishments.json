@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "title": "奖章和成就",
+    "description": "追踪玩家的奖章和成就进度"
+  },
+  "labels": {
+    "title": {
+      "updateTime": "更新于: ",
+      "overview": {
+        "level": "等级",
+        "levelLSCM": "车友会等级",
+        "levelArena": "竞技场等级",
+        "cash": "现金",
+        "bank": "银行",
+        "earned": "收入",
+        "spent": "支出"
+      }
+    },
+    "select": {
+      "platform": {
+        "pcalt": "PC 增强版",
+        "pc": "PC 传承版",
+        "ps5": "PS5",
+        "ps4": "PS4",
+        "xboxsx": "Xbox Series S/X",
+        "xboxone": "Xbox One"
+      }
+    },
+    "input": {
+      "nickname": {
+        "placeholder": "昵称",
+        "aria": "昵称"
+      },
+      "update": {
+        "title": "更新"
+      }
+    },
+    "segment": {
+      "tab": {
+        "awards": "奖章",
+        "achievements": "成就"
+      },
+      "filter": {
+        "all": "全部",
+        "completed": "已完成",
+        "uncompleted": "未完成"
+      },
+      "sort": {
+        "label": "列表视图: ",
+        "game": "游戏",
+        "website": "官网"
+      }
+    },
+    "content": {
+      "private": {
+        "title": "玩家信息未公开"
+      },
+      "ritual": {
+        "title": "每日和每周"
+      },
+      "medal": {
+        "eliteOG": {
+          "title": "老派盗贼",
+          "description": "你保持着老派的行事风格。",
+          "howTo": "完成所有公寓抢劫的精英挑战。",
+          "rarity": "gold"
+        },
+        "cmmOG": {
+          "title": "好家伙",
+          "description": "你坚不可摧的四人组赚了笔大钱。",
+          "howTo": "完成公寓抢劫的犯罪之神挑战。",
+          "rarity": "gold"
+        },
+        "eliteDoomsday": {
+          "title": "救世主",
+          "description": "你用最优雅的方式拯救了世界。",
+          "howTo": "完成所有末日豪劫的精英挑战。",
+          "rarity": "gold"
+        },
+        "cmmDoomsday": {
+          "title": "不可能的任务",
+          "description": "末日被阻止了，没有人死亡……除了埃万，也许。",
+          "howTo": "完成所有末日豪劫的犯罪之神挑战。",
+          "rarity": "gold"
+        },
+        "eliteDC": {
+          "title": "杜根的噩梦",
+          "description": "今晚金库别关灯。",
+          "howTo": "完成所有名钻赌场豪劫的精英挑战。",
+          "rarity": "gold"
+        },
+        "eliteCP": {
+          "title": "迟来的假期",
+          "description": "你争取到了一次带薪休假。",
+          "howTo": "完成佩里科岛抢劫的精英挑战。",
+          "rarity": "gold"
+        },
+        "level750": {
+          "title": "世界属于你",
+          "description": "你成为了洛圣都之王……吗？",
+          "howTo": "到达750级，获得金色地球图标。",
+          "rarity": "gold"
+        },
+        "elite": {
+          "title": "精英盗贼",
+          "description": "你进入了盗贼中的上流社会。",
+          "howTo": "完成所有公寓抢劫、末日豪劫、名钻赌场豪劫、佩里科岛抢劫的精英挑战。",
+          "rarity": "platinum"
+        },
+        "cmm": {
+          "title": "运筹帷幄",
+          "description": "你是完美抢劫的幕后主使。",
+          "howTo": "完成所有公寓抢劫和末日豪劫的犯罪之神挑战。",
+          "rarity": "platinum"
+        },
+        "collector": {
+          "title": "大收藏家",
+          "description": "你翻遍了洛圣都每个角落。",
+          "howTo": "收集100个手办和54张纸牌。",
+          "rarity": "platinum"
+        },
+        "arena": {
+          "title": "竞技场之王",
+          "description": "你究竟交了多少电费？",
+          "howTo": "到达竞技场赞助商等级1000级。",
+          "rarity": "platinum"
+        },
+        "lscm": {
+          "title": "为速而生",
+          "description": "现在可以正式宣布你比光速还快了。",
+          "howTo": "到达车友会声望等级1000级，解锁为速而生赛车服。",
+          "rarity": "platinum"
+        },
+        "rich": {
+          "title": "没人比我更富",
+          "description": "谁能比你更有钱呢？",
+          "howTo": "用10亿存款填满你的豪宅金库。",
+          "rarity": "platinum"
+        },
+        "thumbsup": {
+          "title": "社交达人",
+          "description": "说实话，有多少赞是骗的？",
+          "howTo": "在自制差事中获得1000个赞。",
+          "rarity": "chroma"
+        },
+        "exporter": {
+          "title": "走私专家",
+          "description": "您走私的跑车比古罗帝生产的还多。",
+          "howTo": "送达1000辆外贸出口载具，解锁隐藏短信。",
+          "rarity": "chroma"
+        },
+        "arcade": {
+          "title": "猿神高手",
+          "description": "你放弃了这世间所有的垃圾游戏体验了宇宙最强的旷世神作。",
+          "howTo": "完成所有街机挑战。",
+          "rarity": "chroma"
+        },
+        "samaritan": {
+          "title": "老好人",
+          "description": "你这种大好人来洛圣都做甚？",
+          "howTo": "将被盗财物送还给店主50次。",
+          "rarity": "chroma"
+        },
+        "virgin": {
+          "title": "处子之身",
+          "description": "你知道有个地方叫香草独角兽，对吧？",
+          "howTo": "未享受私人艳舞到达500级。",
+          "rarity": "chroma"
+        },
+        "heist1000": {
+          "title": "抢劫惯犯",
+          "description": "奖章只是好看，速通才是生活。",
+          "howTo": "完成1000次公寓抢劫准备任务或终章。",
+          "rarity": "chroma"
+        },
+        "trinity": {
+          "title": "三位一体",
+          "description": "无人可以站在你的成神之路上。",
+          "howTo": "到达角色等级、车友会声望等级、竞技场赞助商等级1000级。",
+          "rarity": "chroma"
+        },
+        "achievements": {
+          "title": "超额完成",
+          "description": "你总是力争达到最好。",
+          "howTo": "获得所有成就。",
+          "rarity": "red"
+        },
+        "awards": {
+          "title": "功勋卓著",
+          "description": "你埋在奖章里。",
+          "howTo": "获得所有奖章。",
+          "rarity": "red"
+        },
+        "everything": {
+          "title": "No GTA No Life",
+          "description": "干点正事吧，哥们。",
+          "howTo": "获得所有成就和奖章。",
+          "rarity": "red"
+        },
+        "author": {
+          "title": "小面包",
+          "description": "这是一个好吃的小面包。",
+          "howTo": "网站作者",
+          "rarity": "red"
+        }
+      }
+    }
+  }
+}

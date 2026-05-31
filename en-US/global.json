@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "locale": "en_US",
+    "shortName": "GTAO Tools",
+    "siteName": "GTA Online Tools",
+    "description": "Useful tools for GTA Online players"
+  },
+  "labels": {
+    "navigation": {
+      "root": "Home",
+      "tunable": {
+        "root": "Tunable",
+        "pcrosalt": "PC Enhanced",
+        "pcros": "PC Legacy",
+        "ps4": "PS4",
+        "ps5": "PS5",
+        "xboxone": "Xbox One",
+        "xboxsx": "Xbox Series S/X"
+      },
+      "vehicle": {
+        "root": "Vehicle",
+        "modification": "Modification",
+        "extra": "Interior Extra"
+      },
+      "accomplishments": {
+        "root": "Accomplishments"
+      }
+    },
+    "flash": {
+      "accomplishments.tooManyRequests": "Hourly rate limit reached for IP address",
+      "accomplishments.cached": "Player data just updated within 5 miniutes, using cached data",
+      "accomplishments.outdated": "Player data in database, press Update to refresh",
+      "accomplishments.playerUpdated": "Player updated",
+      "accomplishments.playerNotFound": "Player not found"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "language": {
+      "auto": "System Language"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "locale": "en_US",
+    "title": "Vehicle Interior Extras",
+    "description": "Quickly lookup vehicle interior extras"
+  },
+  "labels": {
+    "title": {
+      "extra": "Interior Extra Lookup"
+    },
+    "input": {
+      "includes": {
+        "title": "Include: ",
+        "placeholder": "Separated by comma",
+        "aria": "Separated by comma"
+      },
+      "excludes": {
+        "title": "Exclude: ",
+        "placeholder": "Separated by comma",
+        "aria": "Separated by comma"
+      },
+      "submit": {
+        "title": "Search"
+      }
+    },
+    "select": {
+    },
+    "table": {
+      "legend": {
+        "title": {
+          "requiredExtra": "Required"
+        },
+        "description": {
+          "requiredExtra": "Required extras"
+        }
+      },
+      "header": {
+        "model": "Model",
+        "manufacturer": "Manufacturer",
+        "displayName": "Name",
+        "extra": "Interior Extras",
+        "flag": "Flags"
+      }
+    }
+  }
+}

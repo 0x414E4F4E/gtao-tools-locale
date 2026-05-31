@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "locale": "en_US",
+    "title": "Vehicle Modifications",
+    "description": "Quickly lookup vehicle modifications"
+  },
+  "labels": {
+    "title": {
+      "modification": "Modification Lookup"
+    },
+    "input": {
+      "keyword": {
+        "title": "Keywords: ",
+        "placeholder": "Separated by space",
+        "aria": "Separated by space"
+      },
+      "model": {
+        "title": "Model: ",
+        "placeholder": "Any"
+      },
+      "type": {
+        "title": "Type: "
+      },
+      "select": {
+        "any": "Any"
+      },
+      "submit": {
+        "title": "Search"
+      }
+    },
+    "table": {
+      "header": {
+        "model": "Model",
+        "vehicleName": "Vehicle",
+        "type": "Type",
+        "name": "Name",
+        "weight": "Weight"
+      }
+    },
+    "content": {
+      "count": "items",
+      "showing": "Showing",
+      "showingOf": "of",
+      "showingAll": "Showing all"
+    }
+  }
+}

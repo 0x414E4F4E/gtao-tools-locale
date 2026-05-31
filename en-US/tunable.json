@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "locale": "en_US",
+    "title": "Tunables",
+    "description": "Weekly tunable updates"
+  },
+  "labels": {
+    "title": {
+      "weekly": "Weekly Event",
+      "plus": "GTA+ Content",
+      "vehicles": "Acquirable Vehicles",
+      "salvageYard": "Salvage Yard",
+      "updateTime": "Updated: ",
+      "plusEndTime": "Ends on: ",
+      "plusEndTimeUnknown": "Unknown"
+    },
+    "select": {
+      "latest": "Latest",
+      "week": "Week #",
+      "plus": "GTA+ #"
+    },
+    "table": {
+      "legend": {
+        "title": {
+          "special": "Special",
+          "unavailable": "Unavailable",
+          "plus": "Plus"
+        },
+        "description": {
+          "special": "Marks special color unobtainable from mod shops / livery unlockable after purchase",
+          "unavailable": "Marks special color unavailable on PC (reverts to black upon restarting game)",
+          "plus": "Marks color only available to GTA+ subscribers under certain conditions"
+        }
+      },
+      "header": {
+        "model": {
+          "title": "Model",
+          "name": "Name",
+          "displayName": "Display Name"
+        },
+        "claimable": {
+          "title": "Claimable"
+        },
+        "plate": {
+          "title": "Plate"
+        },
+        "license": {
+          "title": "License"
+        },
+        "primary": {
+          "title": "Primary",
+          "id": "ID",
+          "type": "Type",
+          "colour": "Color"
+        },
+        "secondary": {
+          "title": "Secondary",
+          "id": "ID",
+          "type": "Type",
+          "colour": "Color"
+        },
+        "pearlescent": {
+          "title": "Pearlescent",
+          "id": "ID",
+          "colour": "Color"
+        },
+        "wheel": {
+          "title": "Wheels",
+          "id": "ID",
+          "colour": "Color"
+        },
+        "trim": {
+          "title": "Interior",
+          "id": "ID",
+          "colour": "Color"
+        },
+        "accent": {
+          "title": "Dash",
+          "id": "ID",
+          "colour": "Color"
+        },
+        "livery": {
+          "title": "Livery",
+          "id": "ID",
+          "displayName": "Name"
+        },
+        "location": {
+          "title": "",
+          "casinoPrize": "Casino Prize",
+          "carMeetPrize": "Car Meet Prize",
+          "promoTestDrive1": "Car Meet Test Drive 1",
+          "promoTestDrive2": "Car Meet Test Drive 2",
+          "promoTestDrive3": "Car Meet Test Drive 3",
+          "luxuryShowcase1": "Luxury Showcase 1",
+          "luxuryShowcase2": "Luxury Showcase 2",
+          "simeonTestDrive1": "Simeon Test Drive 1",
+          "simeonTestDrive2": "Simeon Test Drive 2",
+          "simeonTestDrive3": "Simeon Test Drive 3",
+          "simeonTestDrive4": "Simeon Test Drive 4",
+          "simeonTestDrive5": "Simeon Test Drive 5",
+          "hswTestRide": "HSW Test Ride",
+          "prize": "Prize",
+          "vehicle1": "Vehicle 1",
+          "vehicle2": "Vehicle 2",
+          "vehicle3": "Vehicle 3",
+          "vehicle4": "Vehicle 4",
+          "vehicle5": "Vehicle 5",
+          "vehicle6": "Vehicle 6",
+          "vehicle7": "Vehicle 7",
+          "vehicle8": "Vehicle 8",
+          "vehicle9": "Vehicle 9"
+        }
+      },
+      "content": {
+        "claimable": {
+          "yes": "Yes",
+          "no": "No"
+        },
+        "plate": {
+          "common": "Common"
+        },
+        "colorType": {
+          "chrome": "Chrome",
+          "classic": "Classic",
+          "metallic": "Metallic",
+          "matte": "Matte",
+          "metals": "Metals",
+          "chameleon": "Chameleon",
+          "other": "Other"
+        }
+      }
+    }
+  }
+}

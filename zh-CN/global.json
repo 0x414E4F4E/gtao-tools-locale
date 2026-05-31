@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "shortName": "GTAO 工具",
+    "siteName": "GTA Online 工具",
+    "description": "GTA Online 玩家的实用工具"
+  },
+  "labels": {
+    "navigation": {
+      "root": "首页",
+      "tunable": {
+        "root": "活动",
+        "pcrosalt": "PC 增强版",
+        "pcros": "PC 传承版",
+        "ps4": "PS4",
+        "ps5": "PS5",
+        "xboxone": "Xbox One",
+        "xboxsx": "Xbox Series S/X"
+      },
+      "vehicle": {
+        "root": "载具",
+        "modification": "改装",
+        "extra": "Interior Extra"
+      },
+      "accomplishments": {
+        "root": "奖章和成就"
+      }
+    },
+    "flash": {
+      "accomplishments.tooManyRequests": "此IP地址已达每小时查询上限",
+      "accomplishments.cached": "玩家数据于5分钟内更新过，使用缓存数据",
+      "accomplishments.outdated": "已有玩家数据索引，点击更新按钮获取最新数据",
+      "accomplishments.playerUpdated": "玩家数据已更新",
+      "accomplishments.playerNotFound": "玩家不存在"
+    },
+    "pagination": {
+      "previous": "前一页",
+      "next": "后一页"
+    },
+    "language": {
+      "auto": "跟随系统语言"
+    }
+  }
+}
