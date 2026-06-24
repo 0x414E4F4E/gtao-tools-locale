@@ -7,8 +7,10 @@
   },
   "labels": {
     "title": {
+      "marker": "Marker (beta)",
       "updateTime": "Updated: ",
       "overview": {
+        "created": "Created",
         "level": "Level",
         "levelLSCM": "LSCM Level",
         "levelArena": "Arena Level",
@@ -153,8 +155,14 @@
         },
         "arcade": {
           "title": "Pro Ape",
-          "description": "You have reached the peak of evolution",
+          "description": "You have reached the peak of evolution.",
           "howTo": "Complete all arcade game challenges.",
+          "rarity": "chroma"
+        },
+        "seasonal": {
+          "title": "Carpe Diem",
+          "description": "You wouldn't miss any of the fun parts in your life.",
+          "howTo": "Complete all seasonal challenges, including: Assault on ATT-16, Ludendorff Cemetery Survival, Cayo Perico Survival, Mansion Raid.",
           "rarity": "chroma"
         },
         "samaritan": {
@@ -166,7 +174,7 @@
         "virgin": {
           "title": "Virgin",
           "description": "You know there is a place called Vanilla Unicorn, right?",
-          "howTo": "Reach level 500 without enjoying any private dances.",
+          "howTo": "Reach level 500 without enjoying any private dances or purchasing sex acts.",
           "rarity": "chroma"
         },
         "heist1000": {
@@ -180,6 +188,18 @@
           "description": "Nothing can stop you on the way of ascension.",
           "howTo": "Reach level 1000 on character, LSCM and Arena.",
           "rarity": "chroma"
+        },
+        "weapons": {
+          "title": "One Man Army",
+          "description": "There are over 550 million firearms in worldwide circulation. That's one firearm for every twelve people on the planet. And you've got a thousand people's worth.",
+          "howTo": "Buy every weapon, every attachment, unlock every paint unlockable from killing players.",
+          "rarity": "chroma"
+        },
+        "veteran": {
+          "title": "10 Year Veteran",
+          "description": "You are different from those disgusting low-born parvenus.",
+          "howTo": "Spend 10 years in GTA Online.",
+          "rarity": "red"
         },
         "achievements": {
           "title": "Over Achiever",

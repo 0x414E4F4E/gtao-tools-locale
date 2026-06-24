@@ -7,8 +7,10 @@
   },
   "labels": {
     "title": {
+      "marker": "标记 (beta)",
       "updateTime": "更新于: ",
       "overview": {
+        "created": "角色创建",
         "level": "等级",
         "levelLSCM": "车友会等级",
         "levelArena": "竞技场等级",
@@ -157,6 +159,12 @@
           "howTo": "完成所有街机挑战。",
           "rarity": "chroma"
         },
+        "seasonal": {
+          "title": "Carpe Diem",
+          "description": "你不想错过人生中任何有意思的部分。",
+          "howTo": "完成所有限定活动挑战，包括：突袭 ATT-16、鲁登道夫墓地生存战、佩里科岛生存战、豪宅突袭。",
+          "rarity": "chroma"
+        },
         "samaritan": {
           "title": "老好人",
           "description": "你这种大好人来洛圣都做甚？",
@@ -166,7 +174,7 @@
         "virgin": {
           "title": "处子之身",
           "description": "你知道有个地方叫香草独角兽，对吧？",
-          "howTo": "未享受私人艳舞到达500级。",
+          "howTo": "未享受私人艳舞、未购买性服务到达500级。",
           "rarity": "chroma"
         },
         "heist1000": {
@@ -180,6 +188,18 @@
           "description": "无人可以站在你的成神之路上。",
           "howTo": "到达角色等级、车友会声望等级、竞技场赞助商等级1000级。",
           "rarity": "chroma"
+        },
+        "weapons": {
+          "title": "军火之王",
+          "description": "世界上有5.5亿枪支流通，每12人就有一把枪，而你一人足抵千军。",
+          "howTo": "购买所有武器、所有武器配件、解锁所有通过击杀玩家解锁的喷漆。",
+          "rarity": "chroma"
+        },
+        "veteran": {
+          "title": "十年老兵",
+          "description": "你和那些令人作呕的暴发户不一样。",
+          "howTo": "加入GTA Online 10年。",
+          "rarity": "red"
         },
         "achievements": {
           "title": "超额完成",

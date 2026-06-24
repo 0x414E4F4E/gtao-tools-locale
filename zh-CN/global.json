@@ -32,7 +32,8 @@
       "accomplishments.cached": "玩家数据于5分钟内更新过，使用缓存数据",
       "accomplishments.outdated": "已有玩家数据索引，点击更新按钮获取最新数据",
       "accomplishments.playerUpdated": "玩家数据已更新",
-      "accomplishments.playerNotFound": "玩家不存在"
+      "accomplishments.playerNotFound": "玩家不存在",
+      "accomplishments.tokenExpired": "认证已过期，请联系管理员"
     },
     "pagination": {
       "previous": "前一页",
