@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "locale": "en_US",
+    "title": "Vehicle Wheels",
+    "description": "Quickly lookup vehicle wheels"
+  },
+  "labels": {
+    "title": {
+      "wheel": "Wheel Lookup"
+    },
+    "input": {
+      "keyword": {
+        "title": "Keywords: ",
+        "placeholder": "Separated by space",
+        "aria": "Separated by space"
+      },
+      "type": {
+        "title": "Type: "
+      },
+      "select": {
+        "any": "Any"
+      },
+      "submit": {
+        "title": "Search"
+      }
+    },
+    "table": {
+      "header": {
+        "name": "Name",
+        "type": "Type",
+        "wheelIndex": "Index",
+        "rimRadius": "Rim Radius",
+        "rimType": "Rim Type",
+        "tireDesign": "Tire Design",
+        "wheelPosition": "Position"
+      }
+    },
+    "content": {
+      "stock": "Stock",
+      "chrome": "Chrome",
+      "notApplicable": "-",
+      "frontWheel": "Front",
+      "rearWheel": "Rear",
+      "noTireDesign": "None",
+      "customTireAvailable": "Available",
+      "count": "items",
+      "showing": "Showing",
+      "showingOf": "of",
+      "showingAll": "Showing all"
+    }
+  }
+}

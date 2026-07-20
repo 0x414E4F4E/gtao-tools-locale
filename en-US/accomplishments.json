@@ -7,7 +7,12 @@
   },
   "labels": {
     "title": {
-      "marker": "Marker (beta)",
+      "marker": {
+        "title": "Marker (beta)",
+        "signedIn": "Viewing as: ",
+        "restricted": "This feature is exclusive to community moderators. Contact admin to gain access.",
+        "disclaimer": "Passkey is stored on client side and only used for verification. Access will not be traced."
+      },
       "updateTime": "Updated: ",
       "overview": {
         "created": "Created",
@@ -37,10 +42,24 @@
       },
       "update": {
         "title": "Update"
+      },
+      "modID": {
+        "placeholder": "ID"
+      },
+      "modKey": {
+        "placeholder": "Passkey"
+      },
+      "modSignIn": {
+        "title": "Save Passkey"
+      },
+      "modSignOut": {
+        "title": "Clear Passkey"
       }
     },
     "segment": {
       "tab": {
+        "stats": "Stats",
+        "weapons": "Weapons",
         "awards": "Awards",
         "achievements": "Achievements"
       },
@@ -61,6 +80,9 @@
       },
       "ritual": {
         "title": "Daily & Weekly"
+      },
+      "backToTop": {
+        "title": "Back to Top ⤒"
       },
       "medal": {
         "eliteOG": {
@@ -99,6 +121,12 @@
           "howTo": "Complete elite challenge for the Cayo Perico Heist.",
           "rarity": "gold"
         },
+        "eliteKC": {
+          "title": "Masterpiece",
+          "description": "You have a fine taste in fine art.",
+          "howTo": "Complete elite challenge for the Kortz Center Heist.",
+          "rarity": "gold"
+        },
         "level750": {
           "title": "The World Is Yours",
           "description": "Now you own the city… Do you?",
@@ -108,7 +136,7 @@
         "elite": {
           "title": "Grand Theft Elite",
           "description": "You joined high society of thieves.",
-          "howTo": "Complete all elite challenges for Original Heists, Doomsday Heists, Diamond Casino Heist, Cayo Perico Heist.",
+          "howTo": "Complete all elite challenges for Original Heists, Doomsday Heists, Diamond Casino Heist, Cayo Perico Heist, Kortz Center Heist.",
           "rarity": "platinum"
         },
         "cmm": {
@@ -218,6 +246,12 @@
           "description": "Get a life, bro.",
           "howTo": "Earn every award and achievement.",
           "rarity": "red"
+        },
+        "cheater": {
+          "title": "Cheater",
+          "description": "Verified cheater.",
+          "howTo": "Data verified, permanently tagged.",
+          "rarity": "black"
         },
         "author": {
           "title": "Bun",

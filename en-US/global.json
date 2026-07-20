@@ -21,6 +21,7 @@
       "vehicle": {
         "root": "Vehicle",
         "modification": "Modification",
+        "wheel": "Wheels",
         "extra": "Interior Extra"
       },
       "accomplishments": {
@@ -34,6 +35,15 @@
       "accomplishments.playerUpdated": "Player updated",
       "accomplishments.playerNotFound": "Player not found",
       "accomplishments.tokenExpired": "Token expired. Please contact admin."
+    },
+    "unit": {
+      "kilometer": "km",
+      "meter": "m",
+      "km/h": "km/h",
+      "d": "d",
+      "h": "h",
+      "m": "m",
+      "s": "s"
     },
     "pagination": {
       "previous": "Previous",

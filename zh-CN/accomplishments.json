@@ -7,7 +7,12 @@
   },
   "labels": {
     "title": {
-      "marker": "标记 (beta)",
+      "marker": {
+        "title": "标记 (beta)",
+        "signedIn": "访问权限: ",
+        "restricted": "此功能仅对社区管理者开放，联系管理员以获取权限。",
+        "disclaimer": "通行码保存在本地，仅用于确认权限。访问不会被追踪。"
+      },
       "updateTime": "更新于: ",
       "overview": {
         "created": "角色创建",
@@ -37,10 +42,24 @@
       },
       "update": {
         "title": "更新"
+      },
+      "modID": {
+        "placeholder": "ID"
+      },
+      "modKey": {
+        "placeholder": "通行码"
+      },
+      "modSignIn": {
+        "title": "保存通行码"
+      },
+      "modSignOut": {
+        "title": "清除通行码"
       }
     },
     "segment": {
       "tab": {
+        "stats": "统计",
+        "weapons": "武器",
         "awards": "奖章",
         "achievements": "成就"
       },
@@ -61,6 +80,9 @@
       },
       "ritual": {
         "title": "每日和每周"
+      },
+      "backToTop": {
+        "title": "回到顶部 ⤒"
       },
       "medal": {
         "eliteOG": {
@@ -99,6 +121,12 @@
           "howTo": "完成佩里科岛抢劫的精英挑战。",
           "rarity": "gold"
         },
+        "eliteKC": {
+          "title": "大师杰作",
+          "description": "你的艺术品位无可挑剔。",
+          "howTo": "完成科兹中心豪劫的精英挑战。",
+          "rarity": "gold"
+        },
         "level750": {
           "title": "世界属于你",
           "description": "你成为了洛圣都之王……吗？",
@@ -108,7 +136,7 @@
         "elite": {
           "title": "精英盗贼",
           "description": "你进入了盗贼中的上流社会。",
-          "howTo": "完成所有公寓抢劫、末日豪劫、名钻赌场豪劫、佩里科岛抢劫的精英挑战。",
+          "howTo": "完成所有公寓抢劫、末日豪劫、名钻赌场豪劫、佩里科岛抢劫、科兹中心豪劫的精英挑战。",
           "rarity": "platinum"
         },
         "cmm": {
@@ -218,6 +246,12 @@
           "description": "干点正事吧，哥们。",
           "howTo": "获得所有成就和奖章。",
           "rarity": "red"
+        },
+        "cheater": {
+          "title": "作弊者",
+          "description": "证实的作弊者。",
+          "howTo": "经数据校验确认的作弊者，永久标记。",
+          "rarity": "black"
         },
         "author": {
           "title": "小面包",

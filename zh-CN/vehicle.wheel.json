@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "title": "载具车轮",
+    "description": "载具车轮速查"
+  },
+  "labels": {
+    "title": {
+      "wheel": "车轮速查"
+    },
+    "input": {
+      "keyword": {
+        "title": "关键词: ",
+        "placeholder": "以空格分开",
+        "aria": "以空格分开"
+      },
+      "type": {
+        "title": "类型: "
+      },
+      "select": {
+        "any": "任何"
+      },
+      "submit": {
+        "title": "搜索"
+      }
+    },
+    "table": {
+      "header": {
+        "name": "名称",
+        "type": "类型",
+        "wheelIndex": "序号",
+        "rimRadius": "轮毂半径",
+        "rimType": "轮毂类型",
+        "tireDesign": "轮胎设计",
+        "wheelPosition": "位置"
+      }
+    },
+    "content": {
+      "stock": "原装",
+      "chrome": "铬合金",
+      "notApplicable": "-",
+      "frontWheel": "前轮",
+      "rearWheel": "后轮",
+      "noTireDesign": "无",
+      "customTireAvailable": "可选",
+      "count": "项",
+      "showing": "正在展示第",
+      "showingOf": "项，共",
+      "showingAll": "正在展示全部"
+    }
+  }
+}

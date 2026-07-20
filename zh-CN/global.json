@@ -21,6 +21,7 @@
       "vehicle": {
         "root": "载具",
         "modification": "改装",
+        "wheel": "车轮",
         "extra": "Interior Extra"
       },
       "accomplishments": {
@@ -34,6 +35,15 @@
       "accomplishments.playerUpdated": "玩家数据已更新",
       "accomplishments.playerNotFound": "玩家不存在",
       "accomplishments.tokenExpired": "认证已过期，请联系管理员"
+    },
+    "unit": {
+      "kilometer": "千米",
+      "meter": "米",
+      "km/h": "千米/时",
+      "d": "天",
+      "h": "时",
+      "m": "分",
+      "s": "秒"
     },
     "pagination": {
       "previous": "前一页",
