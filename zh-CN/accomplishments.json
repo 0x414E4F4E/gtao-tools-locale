@@ -16,6 +16,7 @@
       "updateTime": "更新于: ",
       "overview": {
         "created": "角色创建",
+        "playTime": "角色时长",
         "level": "等级",
         "levelLSCM": "车友会等级",
         "levelArena": "竞技场等级",
@@ -54,6 +55,15 @@
       },
       "modSignOut": {
         "title": "清除通行码"
+      },
+      "modAddCheaterMark": {
+        "title": "标记为作弊者"
+      },
+      "modRemoveCheaterMark": {
+        "title": "移除作弊者标记"
+      },
+      "saveFilter": {
+        "title": "记住当前筛选"
       }
     },
     "segment": {
@@ -66,12 +76,34 @@
       "filter": {
         "all": "全部",
         "completed": "已完成",
-        "uncompleted": "未完成"
+        "uncompleted": "未完成",
+        "changed": "有变动"
       },
       "sort": {
         "label": "列表视图: ",
         "game": "游戏",
         "website": "官网"
+      }
+    },
+    "table": {
+      "header": {
+        "name": "名称",
+        "status": "状态",
+        "attachments": "配件",
+        "timeHeld": "使用时间",
+        "accuracy": "准确率",
+        "shots": "开火次数",
+        "hits": "击中次数",
+        "kills": "击杀数",
+        "headshots": "爆头数",
+        "playerKills": "玩家击杀数",
+        "deaths": "死亡数",
+        "kdRatio": "击杀/死亡比"
+      },
+      "content": {
+        "locked": "未解锁",
+        "unlocked": "已解锁",
+        "purchased": "已购买"
       }
     },
     "content": {
@@ -84,6 +116,7 @@
       "backToTop": {
         "title": "回到顶部 ⤒"
       },
+      "completed": "已完成",
       "medal": {
         "eliteOG": {
           "title": "老派盗贼",
@@ -250,7 +283,7 @@
         "cheater": {
           "title": "作弊者",
           "description": "证实的作弊者。",
-          "howTo": "经数据校验确认的作弊者，永久标记。",
+          "howTo": "经数据校验确认的作弊者，永久标记。<br><a href=\"/#appeal\">申诉</a>",
           "rarity": "black"
         },
         "author": {

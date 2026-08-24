@@ -16,6 +16,7 @@
       "updateTime": "Updated: ",
       "overview": {
         "created": "Created",
+        "playTime": "Play Time",
         "level": "Level",
         "levelLSCM": "LSCM Level",
         "levelArena": "Arena Level",
@@ -54,6 +55,15 @@
       },
       "modSignOut": {
         "title": "Clear Passkey"
+      },
+      "modAddCheaterMark": {
+        "title": "Mark as Cheater"
+      },
+      "modRemoveCheaterMark": {
+        "title": "Remove Cheater Mark"
+      },
+      "saveFilter": {
+        "title": "Save Filter"
       }
     },
     "segment": {
@@ -66,12 +76,34 @@
       "filter": {
         "all": "All",
         "completed": "Completed",
-        "uncompleted": "Uncompleted"
+        "uncompleted": "Uncompleted",
+        "changed": "Changed"
       },
       "sort": {
         "label": "Sort by: ",
         "game": "Game",
         "website": "Website"
+      }
+    },
+    "table": {
+      "header": {
+        "name": "Name",
+        "status": "Status",
+        "attachments": "Attachments",
+        "timeHeld": "Time Held",
+        "accuracy": "Accuracy",
+        "shots": "Shots",
+        "hits": "Hits",
+        "kills": "Kills",
+        "headshots": "Headshots",
+        "playerKills": "Player Kills",
+        "deaths": "Deaths",
+        "kdRatio": "K/D Ratio"
+      },
+      "content": {
+        "locked": "Locked",
+        "unlocked": "Unlocked",
+        "purchased": "Purchased"
       }
     },
     "content": {
@@ -84,6 +116,7 @@
       "backToTop": {
         "title": "Back to Top ⤒"
       },
+      "completed": "Completed",
       "medal": {
         "eliteOG": {
           "title": "OG Thief",
@@ -250,7 +283,7 @@
         "cheater": {
           "title": "Cheater",
           "description": "Verified cheater.",
-          "howTo": "Data verified, permanently tagged.",
+          "howTo": "Data verified, permanently tagged.<br><a href=\"/#appeal\">Appeal</a>",
           "rarity": "black"
         },
         "author": {
