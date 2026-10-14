@@ -18,13 +18,18 @@
         "slot": "角色槽位",
         "created": "角色创建",
         "playTime": "角色时长",
+        "characterTime": "角色时长",
+        "remainingTime": "剩余时长",
         "level": "等级",
         "levelLSCM": "车友会等级",
         "levelArena": "竞技场等级",
         "cash": "现金",
         "bank": "银行",
+        "sharkCard": "鲨鱼卡余额",
         "earned": "收入",
-        "spent": "支出"
+        "spent": "支出",
+        "social": "社交媒体",
+        "comment": "备注"
       }
     },
     "tooltip": {
@@ -42,6 +47,16 @@
       },
       "modSignOut": {
         "title": "清除通行码"
+      },
+      "social": {
+        "placeholder": "社交媒体账号"
+      },
+      "comment": {
+        "placeholder": "备注"
+      },
+      "editComment": {
+        "title": "编辑备注",
+        "confirm": "你确定要编辑备注吗？"
       },
       "modMarkCharacter0": {
         "title": "标记为角色#0",
@@ -93,6 +108,9 @@
     "content": {
       "private": {
         "title": "玩家信息未公开"
+      },
+      "noCharacter": {
+        "title": "玩家在此平台上没有角色"
       },
       "completed": "已完成",
       "medal": {
@@ -208,6 +226,12 @@
           "title": "老好人",
           "description": "你这种大好人来洛圣都做甚？",
           "howTo": "将被盗财物送还给店主50次。",
+          "rarity": "chroma"
+        },
+        "oddjobs": {
+          "title": "劳动人民最光荣",
+          "description": "朝九晚五，如此辛苦，只为糊口。",
+          "howTo": "完成所有兼职相关奖章。",
           "rarity": "chroma"
         },
         "virgin": {

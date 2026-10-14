@@ -18,13 +18,18 @@
         "slot": "Slot",
         "created": "Created",
         "playTime": "Play Time",
+        "characterTime": "Character Time",
+        "remainingTime": "Remaining Time",
         "level": "Level",
         "levelLSCM": "LSCM Level",
         "levelArena": "Arena Level",
         "cash": "Cash",
         "bank": "Bank",
+        "sharkCard": "Shark Card",
         "earned": "Earned",
-        "spent": "Spent"
+        "spent": "Spent",
+        "social": "Social Media",
+        "comment": "Comment"
       }
     },
     "tooltip": {
@@ -42,6 +47,16 @@
       },
       "modSignOut": {
         "title": "Clear Passkey"
+      },
+      "social": {
+        "placeholder": "Social Media Account"
+      },
+      "comment": {
+        "placeholder": "Comment"
+      },
+      "editComment": {
+        "title": "Edit Comment",
+        "confirm": "Are you sure you want to edit comment?"
       },
       "modMarkCharacter0": {
         "title": "Mark as Character #0",
@@ -93,6 +108,9 @@
     "content": {
       "private": {
         "title": "Player profile is private"
+      },
+      "noCharacter": {
+        "title": "Player doesn't have a character on this platform"
       },
       "completed": "Completed",
       "medal": {
@@ -163,7 +181,7 @@
           "rarity": "platinum"
         },
         "arena": {
-          "title": "Lord of Arena",
+          "title": "Lord of Arena War",
           "description": "How much are you paying for electricity?",
           "howTo": "Reach level 1000 on Arena Sponsorship Tier",
           "rarity": "platinum"
@@ -208,6 +226,12 @@
           "title": "Samaritan",
           "description": "What took a nice person like you to Los Santos?",
           "howTo": "Return stolen cash to a shop 50 times.",
+          "rarity": "chroma"
+        },
+        "oddjobs": {
+          "title": "Proud Working Class",
+          "description": "Working 9 to 5, a hell of a way to make a living.",
+          "howTo": "Complete all Odd Jobs related awards.",
           "rarity": "chroma"
         },
         "virgin": {

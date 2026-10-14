@@ -29,7 +29,8 @@
       }
     },
     "flash": {
-      "accomplishments.tooManyRequests": "Hourly rate limit reached for IP address",
+      "accomplishments.tooManyRequests": "Rate limit reached for IP address",
+      "accomplishments.fallback": "Player profile is private, using latest public record",
       "accomplishments.cached": "Player data just updated within 5 miniutes, using cached data",
       "accomplishments.outdated": "Player data in database, press Update to refresh",
       "accomplishments.playerUpdated": "Player updated",
